@@ -1,0 +1,20 @@
+[
+	{
+		"title": "remeras",
+		"price": 1000,
+		"thumbnail": "https://i.imgur.com/yo2QIDw.jpg",
+		"id": 1
+	},
+	{
+		"title": "anillo",
+		"price": 2000,
+		"thumbnail": "https://i.imgur.com/tgYSPkj.jpg",
+		"id": 2
+	}
+]	{
+		"title": "pollera",
+		"price": 1500,
+		"thumbnail": "https://i.imgur.com/m2LLMql.jpg",
+		"id": 3
+	}
+]
