@@ -1,0 +1,26 @@
+[
+    {
+        "title": "remera",
+        "price": 1000,
+        "thumbnail": "https://i.imgur.com/yo2QIDw.jpg",
+        "id": 1
+    },
+    {
+        "title": "vestido",
+        "price": 1000,
+        "thumbnail": "https://i.imgur.com/m2LLMql.jpg",
+        "id": 2
+    },
+    {
+        "title": "vestido corto",
+        "price": 1000,
+        "thumbnail": "https://i.imgur.com/ZohVrGI.jpg",
+        "id": 3
+    },
+    {
+        "title": "anillo",
+        "price": 1000,
+        "thumbnail": "https://i.imgur.com/tgYSPkj.jpg",
+        "id": 4
+    }
+]
